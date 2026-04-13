@@ -68,3 +68,4 @@ for (var k = 0; k < employees.length; k++) {
 }
 
 console.log("---------------------------");
+// updated formatting
