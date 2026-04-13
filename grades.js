@@ -70,3 +70,4 @@ for (var i = 0; i < scores.length; i++) {
 
 console.log("---------------------------");
 small changes for the grades
+also changed the majority of var -> con.
