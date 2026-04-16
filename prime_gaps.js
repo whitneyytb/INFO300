@@ -62,3 +62,4 @@ if (primes.length < 2) {
         largestGapStart + " and " + largestGapEnd);
     console.log("The average gap is " + averageGap.toFixed(2));
 }
+refined logic
